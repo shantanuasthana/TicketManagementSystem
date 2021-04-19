@@ -1,0 +1,24 @@
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 200px;
+  text-align: center;
+  background-color: #7b1ce7;
+}
+.sidebar-heading {
+  margin: 10% 0;
+}
+ul {
+  list-style-type: none;
+  font-size: large;
+  padding: 0;
+  text-align: left;
+}
+li {
+  margin: 25% 0;
+}
+.list-item {
+  text-decoration: none;
+  color: rgb(29, 28, 28);
+}
